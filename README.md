@@ -5,6 +5,9 @@ A sign-in tool for meeting groups
 
 by [Colin Dean](http://github.com/colindean)
 
+Help fund development: 
+[![Gittip](http://badgr.co/Gittip/colindean.png)](https://www.gittip.com/colindean/)
+
 Introduction
 ------------
 
