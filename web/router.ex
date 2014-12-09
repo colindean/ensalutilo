@@ -16,8 +16,8 @@ defmodule Ensalutilo.Router do
     get "/", PageController, :index
   end
 
-  # Other scopes may use custom stacks.
-  # scope "/api", Ensalutilo do
-  #   pipe_through :api
-  # end
+  scope "/registration", Ensalutilo do
+    get "/", RegistrationController, :index
+    post "/register", RegistrationController, :register
+  end
 end
