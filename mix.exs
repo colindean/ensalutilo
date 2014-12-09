@@ -22,7 +22,7 @@ defmodule Ensalutilo.Mixfile do
   #
   # Type `mix help deps` for examples and options
   defp deps do
-    [{:phoenix, github: "phoenixframework/phoenix"},
+    [{:phoenix, "~> 0.6.2"},
      {:cowboy, "~> 1.0"}]
   end
 end

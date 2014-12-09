@@ -14,7 +14,7 @@ use Mix.Config
 config :phoenix, Ensalutilo.Router,
   url: [host: "example.com"],
   http: [port: System.get_env("PORT")],
-  secret_key_base: "pZN60atq8dtbD7YPAOcRZvKcB4z1+sAPrtmZTTc+MkqeiB4203U09FHT2+wsyRgXBivc1O4xUODwEK+W4yVbHQ=="
+  secret_key_base: "qA7rW8/MwkojI3Gjq2GZN4yxMuhELZtluzAipmpNZJMGkAabqEQdgr+/BLWA50zPqbWAvG5G0k/ix2Rb9i2WOQ=="
 
 config :logger,
   level: :info
