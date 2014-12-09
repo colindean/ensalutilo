@@ -3,15 +3,18 @@ ensalutilo
 
 A sign-in tool for meeting groups
 
-by [Colin Dean](http://github.com/colindean)
+by [Colin Dean](http://github.com/colindean) and [Justin X.
+Reese](http://github.com/justinxreese).
 
 Help fund development: 
-[![Gittip](http://img.shields.io/Gittip/colindean.png)](https://www.gittip.com/colindean/)
+[![Gratipay](http://img.shields.io/gratipay/codeandsupply.png)](https://www.gratipay.com/codeandsupply/)
 
 Introduction
 ------------
 
-This tool aims to be a simple way for people attending meetings to declare their presence to the meeting. Minimally, it offers a text input and records the name for retrieval by an administrative user.
+This tool aims to be a simple way for people attending meetings to declare their
+presence to the meeting. Minimally, it offers a text input and records the name
+for retrieval by an administrative user.
 
 Installation
 ------------
@@ -23,10 +26,13 @@ Use
 
 Using it works something like this:
 
-  1. Attendee walks into venue and sees a "SIGN IN HERE" sign with a QRcode and URL on it. The QRcode simply directs the user to the URL.
+  1. Attendee walks into venue and sees a "SIGN IN HERE" sign with a QRcode and
+     URL on it. The QRcode simply directs the user to the URL.
   2. User scans or types URL and is taken to a sign-in form for that event.
-  3. User can optionally log-in with a social networking account (probably github or twitter at first)
-  4. If the user doesn't log-in, then they can simply type their name. It will be remembered between events so they don't have to retype for each event.
+  3. User can optionally log-in with a social networking account (probably
+     github or twitter at first)
+  4. If the user doesn't log-in, then they can simply type their name. It will
+     be remembered between events so they don't have to retype for each event.
   5. User clicks sign in.
   6. Done.
 
