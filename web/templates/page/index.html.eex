@@ -1,6 +1,9 @@
 <div class="jumbotron">
-  <h2>Welcome to Phoenix!</h2>
-  <p class="lead">Phoenix is an Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.</p>
+  <h2>Welcome to Ensalutilo!</h2>
+  <p class="lead">
+    Phoenix is an Elixir Web Framework targeting full-featured,
+    fault tolerant applications with realtime functionality.
+  </p>
 </div>
 
 <div class="row marketing">

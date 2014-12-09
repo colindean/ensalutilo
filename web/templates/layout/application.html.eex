@@ -7,23 +7,20 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Hello Phoenix!</title>
+    <title>Hello Ensalutilo!</title>
     <link rel="stylesheet" href="/css/phoenix.css">
   </head>
 
   <body>
     <div class="container">
       <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li><a href="https://github.com/phoenixframework/phoenix">Get Started</a></li>
-        </ul>
         <span class="logo"></span>
       </div>
 
       <%= @inner %>
 
       <div class="footer">
-        <p><a href="http://phoenixframework.org">phoenixframework.org</a></p>
+        <p><a href="http://codeandsupply.co">Code & Supply</a></p>
       </div>
 
     </div> <!-- /container -->
