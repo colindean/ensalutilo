@@ -1,3 +1,6 @@
+:warning: This is unmaintained. It had no known production deployments outside of our testing. Do not use.
+
+
 ensalutilo
 ==========
 
